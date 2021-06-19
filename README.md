@@ -1,20 +1,17 @@
-### Hi there 👋
+<div align="center"><h2> Hi there! 🥰 </h2>
 
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=carolbenichio&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+In search of a future immersed in technology, I have decided to follow the career of web developer! 👩‍💻 <br>
+Focusing on hard skills and without forgetting soft skills, I'm perfecting my way with Trybe's help to get ready for the technological career!
 
-Credit: [ankitwarbhe](https://github.com/ankitwarbhe)
-<!--
-**carolbenichio/carolbenichio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
+🌱 I’m currently learning React. <br>
+📫 How to reach me:<br>
+[Linkedin](https://www.linkedin.com/in/carolinebenichio/) <br>
+[Email](benichiocarol@gmail.com) <br>
+🙅‍♀️ Pronouns: She/her.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height='130px' src="https://github-readme-stats.vercel.app/api?username=carolbenichio&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+</div>
