@@ -8,7 +8,7 @@ I'm perfecting my way to get ready for the technological career!
 🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
 🌱 I’m currently learning React. <br>
 📫 How to reach me:<br>
-[Linkedin](https://www.linkedin.com/in/carolinebenichio/) <br>
+[LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 [Email](benichiocarol@gmail.com) <br>
 🙅‍♀️ Pronouns: She/her.
 </div>
