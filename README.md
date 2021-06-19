@@ -1,7 +1,9 @@
 <div align="center"><h2> Hi there! 🥰 </h2>
 
-In search of a future immersed in technology, I have decided to follow the career of web developer! 👩‍💻 <br>
-Focusing on hard skills and without forgetting soft skills, I'm perfecting my way with Trybe's help to get ready for the technological career!
+In search of a future immersed in technology, <br>
+I have decided to follow the career of web developer! 👩‍💻 <br>
+Focusing on hard skills and without forgetting soft skills, <br>
+I'm perfecting my way with Trybe's help to get ready for the technological career!
 
 🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
 🌱 I’m currently learning React. <br>
