@@ -10,7 +10,7 @@ I'm perfecting my way to get ready for the technological career! <br>
 🌱 I’m currently learning React. <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
-[Email](benichiocarol@gmail.com) <br>
+[Email: benichiocarol@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) <br>
 🙅‍♀️ Pronouns: She/her.
 </div>
 
