@@ -7,7 +7,7 @@ Focusing on hard skills and without forgetting soft skills, <br>
 I'm perfecting my way to get ready for the technological career! <br>
 
 🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
-🌱 I’m currently learning React. <br>
+🌱 I’m currently learning Redux. <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 [Email: benichiocarol@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) <br>
