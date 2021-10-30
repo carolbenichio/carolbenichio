@@ -19,7 +19,7 @@ I'm perfecting my way to get ready for the technological career! <br>
 <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
 <h4 align="center">Thanks for the visit! 👋</h4>
-<div>
+<div align="center">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=carolbenichio&color=blueviolet" />
   </a>
