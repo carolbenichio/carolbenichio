@@ -40,9 +40,6 @@
   <a href="https://www.mysql.com" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="linux" width="40" height="40"/>
-  </a>
 </div>
 
 <h4 align="center">Thanks for the visit! 👋</h4>
