@@ -5,7 +5,7 @@
 🌱 I’m currently learning Node.js! <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
-[Email: benichiocarol@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) <br>
+Email: benichiocarol@gmail.com <br>
 🙅‍♀️ Pronouns: She/her.
 </div>
 
