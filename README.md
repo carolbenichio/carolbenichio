@@ -2,7 +2,7 @@
 <div align="center"><h2>Hi there! 🥰</h2>
 
 🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
-🌱 I’m currently learning Node.js! <br>
+🌱 I’m currently learning Socket.io! <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 Email: benichiocarol@gmail.com <br>
