@@ -54,16 +54,6 @@ Email: benichiocarol@gmail.com <br>
   </a>
 </div>
 
-<p align="center">
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
-</p>
-
-
-
-<p align="center">
-    	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12149331139&cover_image=false&theme=default" />
-</p>
-
 <h4 align="center">Thanks for the visit! 👋</h4>
 <div align="center">
   <a href="#">
