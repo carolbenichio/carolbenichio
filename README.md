@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://media.giphy.com/media/2aIRxJ8YitX04Am4kO/giphy.gif" width="150px"></img></div>
 <div align="center"><h2>Hi there! 🥰</h2>
 
-🔭 I started my career as a Web Developer studing at [Trybe](https://www.betrybe.com/).<br>
+🔭 I started my career as a web developer studying at [Trybe](https://www.betrybe.com/).<br>
 🌱 I work at [BizCapital](https://www.bizcapital.com.br)! 💛 <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
