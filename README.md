@@ -2,7 +2,7 @@
 <div align="center"><h2>Hi there! 🥰</h2>
 
 🔭 I started my career as a Web Developer studing at [Trybe](https://www.betrybe.com/).<br>
-🌱 Today, I work at [BizCapital](https://www.bizcapital.com.br)! 💛 <br>
+🌱 I work at [BizCapital](https://www.bizcapital.com.br)! 💛 <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 Email: benichiocarol@gmail.com <br>
