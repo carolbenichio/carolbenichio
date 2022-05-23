@@ -1,8 +1,8 @@
 <div align="center"> <img src="https://media.giphy.com/media/2aIRxJ8YitX04Am4kO/giphy.gif" width="150px"></img></div>
 <div align="center"><h2>Hi there! 🥰</h2>
 
-🔭 I’m currently studing at [Trybe](https://www.betrybe.com/)! <br>
-🌱 I’m currently learning Python! <br>
+🔭 I started my career as a Web Developer studing at [Trybe](https://www.betrybe.com/).<br>
+🌱 Today, I work at [BizCapital](https://www.bizcapital.com.br)! 💛 <br>
 📫 How to reach me:<br>
 [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 Email: benichiocarol@gmail.com <br>
@@ -14,7 +14,7 @@ Email: benichiocarol@gmail.com <br>
 <img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
 
-<h3 align="center">What I know!</h3>
+<h3 align="center">What I know:</h3>
 <div align="center" display="flex"; justify-content="space-between" width: "100%">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -27,7 +27,7 @@ Email: benichiocarol@gmail.com <br>
      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="slack" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://redux.js.org" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
