@@ -1,20 +1,19 @@
-<div align="center"> <img src="https://media.giphy.com/media/2aIRxJ8YitX04Am4kO/giphy.gif" height="200px"></img></div>
-<div align="center"><h2>Hi there! 🥰</h2>
+<div align="left">
 
 🔭 I started my career as a web developer studying at [Trybe](https://www.betrybe.com/).<br>
 🌱 I work at [BizCapital](https://www.bizcapital.com.br)! 💛 <br>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
-💻 Email: benichiocarol@gmail.com <br>
-🙅‍♀️ Pronouns: She/her.
+📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
+💻 benichiocarol@gmail.com <br>
+🙅‍♀️ she/her.
 </div>
 
-<div align="center">
+<div align="right">
   <img height='130px' src="https://github-readme-stats.vercel.app/api?username=carolbenichio&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+<br><img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
 
-<h3 align="center">What I know:</h3>
-<div align="center" display="flex"; justify-content="space-between" width: "100%">
+<h4 align="left">what I play with:</h4>
+<div align="left" display="flex"; justify-content="space-between" width: "100%">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -66,8 +65,8 @@
   </div>
 </div>
 
-<h4 align="center">Thanks for the visit! 👋</h4>
-<div align="center">
+<h4 align="right">see ya! 👋</h4>
+<div align="right">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=carolbenichio&color=blueviolet" />
   </a>
