@@ -11,7 +11,7 @@
 <br><img height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbenichio&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </div>
 
-<h4 align="left">what I play with:</h4>
+<p align="left">what I play with:</p>
 <div align="left" display="flex"; justify-content="space-between" width: "100%">
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
