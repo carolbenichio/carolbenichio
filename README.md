@@ -1,7 +1,6 @@
 <div align="left">
 
-🔭 I started my career as a web developer studying at [Trybe](https://www.betrybe.com/)<br>
-🌱 I work at [BizCapital](https://www.bizcapital.com.br) 💛 <br>
+🔭 started my career as a web developer studying at [Trybe](https://www.betrybe.com/)<br>
 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/carolinebenichio/) <br>
 💻 benichiocarol@gmail.com <br>
 🙅‍♀️ she/her.
