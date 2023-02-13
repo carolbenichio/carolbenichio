@@ -35,11 +35,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
+  </div>
+  <div>
     <a href="https://jestjs.io" target="_blank">
      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
     </a>
-  </div>
-  <div>
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
@@ -54,10 +54,6 @@
     </a>
     <a href="https://www.python.org/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://sequelize.org/" target="_blank">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
-    </a>
     <a href="https://www.mongodb.com/" target="_blank">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
     </a>
